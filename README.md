@@ -23,9 +23,9 @@
 
 В качестве основы использовались три отдельные выборки IT-вакансий, собранные с сайта hh.ru за осень 2022 года:
 
-`vacancies_part_356` — выборка на 356 строк
-`vacancies_part_604` — выборка на 604 строки
-`vacancies_part_858` — выборка на 858 строк
+`vacancies_part_356` — выборка на 356 строк  
+`vacancies_part_604` — выборка на 604 строки  
+`vacancies_part_858` — выборка на 858 строк  
 
 После объединения была собрана итоговая таблица для анализа.
 
@@ -92,27 +92,6 @@
 
 ---
 
-## Инструменты
-
-Power BI Desktop  
-Power Query  
-Excel-источники с вакансиями  
-
----
-
-## Структура репозитория
-
-`Анализ_рынка_IT.pbix` — основной файл Power BI с итоговым дашбордом
-`README.md` — описание проекта
-`screenshots/market_overview.PNG` — главная страница с обзором рынка вакансий
-`screenshots/employers_salary_structure.PNG` — страница с работодателями, зарплатами и типами занятости
-`screenshots/vacancies_geography.PNG` — карта распределения вакансий
-`data/vacancies_part_356.xlsx` — первая выборка
-`data/vacancies_part_604.xlsx` — вторая выборка
-`data/vacancies_part_858.xlsx` — третья выборка
-
----
-
 ## Скриншоты
 
 ### Обзор рынка вакансий
@@ -126,6 +105,26 @@ Excel-источники с вакансиями
 
 ---
 
+## Инструменты
+
+Power BI Desktop  
+Power Query  
+Excel-источники с вакансиями  
+
+---
+
+## Структура репозитория
+
+`Анализ_рынка_IT.pbix` — основной файл Power BI с итоговым дашбордом  
+`README.md` — описание проекта  
+`screenshots/market_overview.PNG` — главная страница с обзором рынка вакансий  
+`screenshots/employers_salary_structure.PNG` — страница с работодателями, зарплатами и типами занятости  
+`screenshots/vacancies_geography.PNG` — карта распределения вакансий  
+`data/vacancies_part_356.xlsx` — первая выборка  
+`data/vacancies_part_604.xlsx` — вторая выборка  
+`data/vacancies_part_858.xlsx` — третья выборка  
+
+---
 
 ## Итог
 
